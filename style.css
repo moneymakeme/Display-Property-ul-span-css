@@ -1,0 +1,12 @@
+body{
+    font-size: 20px;
+    /*The body have ul in list tag ang span tag in use this css  20px of font size using this*/
+}
+ul li{
+    display:inline;
+    /*The unoreder list ul inside the item list tag on li defalut are the block but our need use in inline property on this sections*/
+}
+span{
+    display:block;
+    /*Span tag on is default the inline element so our needs chaged to the block css property use in this display*/
+}
